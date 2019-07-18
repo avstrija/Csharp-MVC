@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{9E40A3F1-46B3-442C-BA8B-17D401D3529D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TemplateWithTests/Program.cs">
+    <Files>
+      <File FileName="TemplateWithTests/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TemplateWithTests" expanded="True" selected="True">
+            <Node name="TemplateWithTests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TemplateWithTests FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

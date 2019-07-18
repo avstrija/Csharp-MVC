@@ -1,0 +1,6 @@
+/Users/admon/Projects/Album-Song/Album-Song/obj/x86/Debug/Album-Song.csprojAssemblyReference.cache
+/Users/admon/Projects/Album-Song/Album-Song/obj/x86/Debug/Album-Song.csproj.CoreCompileInputs.cache
+/Users/admon/Projects/Album-Song/Album-Song/bin/Debug/Album-Song.exe
+/Users/admon/Projects/Album-Song/Album-Song/bin/Debug/Album-Song.pdb
+/Users/admon/Projects/Album-Song/Album-Song/obj/x86/Debug/Album-Song.exe
+/Users/admon/Projects/Album-Song/Album-Song/obj/x86/Debug/Album-Song.pdb

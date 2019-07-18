@@ -1,0 +1,6 @@
+/Users/admon/Projects/Seasons/Seasons/obj/x86/Debug/Seasons.csprojAssemblyReference.cache
+/Users/admon/Projects/Seasons/Seasons/obj/x86/Debug/Seasons.csproj.CoreCompileInputs.cache
+/Users/admon/Projects/Seasons/Seasons/bin/Debug/Seasons.exe
+/Users/admon/Projects/Seasons/Seasons/bin/Debug/Seasons.pdb
+/Users/admon/Projects/Seasons/Seasons/obj/x86/Debug/Seasons.exe
+/Users/admon/Projects/Seasons/Seasons/obj/x86/Debug/Seasons.pdb

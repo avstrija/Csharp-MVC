@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{8D96FE7D-5B5B-4B03-BEB2-40B504506F37}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TextTemplates/Program.cs">
+    <Files>
+      <File FileName="TextTemplates/Program.cs" Line="20" Column="61" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TextTemplates" expanded="True">
+            <Node name="TextTemplates" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TextTemplates PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

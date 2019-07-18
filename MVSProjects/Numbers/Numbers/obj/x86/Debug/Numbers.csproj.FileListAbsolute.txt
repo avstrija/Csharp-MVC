@@ -1,0 +1,6 @@
+/Users/admon/Projects/Numbers/Numbers/obj/x86/Debug/Numbers.csprojAssemblyReference.cache
+/Users/admon/Projects/Numbers/Numbers/obj/x86/Debug/Numbers.csproj.CoreCompileInputs.cache
+/Users/admon/Projects/Numbers/Numbers/bin/Debug/Numbers.exe
+/Users/admon/Projects/Numbers/Numbers/bin/Debug/Numbers.pdb
+/Users/admon/Projects/Numbers/Numbers/obj/x86/Debug/Numbers.exe
+/Users/admon/Projects/Numbers/Numbers/obj/x86/Debug/Numbers.pdb

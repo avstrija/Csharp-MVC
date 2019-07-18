@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{76AA3F04-7874-4B6E-922C-1CB137D49E95}|Default">
+  <MonoDevelop.Ide.ItemProperties.RolodexAccessor PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RolodexAccessor/Program.cs">
+    <Files>
+      <File FileName="RolodexAccessor/Program.cs" Line="33" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RolodexAccessor" expanded="True">
+            <Node name="RolodexAccessor" expanded="True">
+              <Node name="References" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

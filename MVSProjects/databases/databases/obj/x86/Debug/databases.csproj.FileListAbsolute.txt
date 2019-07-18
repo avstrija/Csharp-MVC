@@ -1,0 +1,6 @@
+/Users/admon/Projects/databases/databases/bin/Debug/databases.exe
+/Users/admon/Projects/databases/databases/bin/Debug/databases.pdb
+/Users/admon/Projects/databases/databases/obj/x86/Debug/databases.csprojAssemblyReference.cache
+/Users/admon/Projects/databases/databases/obj/x86/Debug/databases.csproj.CoreCompileInputs.cache
+/Users/admon/Projects/databases/databases/obj/x86/Debug/databases.exe
+/Users/admon/Projects/databases/databases/obj/x86/Debug/databases.pdb

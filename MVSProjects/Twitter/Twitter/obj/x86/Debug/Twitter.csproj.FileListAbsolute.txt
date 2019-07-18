@@ -1,0 +1,6 @@
+/Users/admon/Projects/Twitter/Twitter/obj/x86/Debug/Twitter.csprojAssemblyReference.cache
+/Users/admon/Projects/Twitter/Twitter/obj/x86/Debug/Twitter.csproj.CoreCompileInputs.cache
+/Users/admon/Projects/Twitter/Twitter/bin/Debug/Twitter.exe
+/Users/admon/Projects/Twitter/Twitter/bin/Debug/Twitter.pdb
+/Users/admon/Projects/Twitter/Twitter/obj/x86/Debug/Twitter.exe
+/Users/admon/Projects/Twitter/Twitter/obj/x86/Debug/Twitter.pdb

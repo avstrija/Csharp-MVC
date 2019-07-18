@@ -1,0 +1,6 @@
+/Users/admon/Projects/AlbumDB/AlbumDB/obj/x86/Debug/AlbumDB.csprojAssemblyReference.cache
+/Users/admon/Projects/AlbumDB/AlbumDB/obj/x86/Debug/AlbumDB.csproj.CoreCompileInputs.cache
+/Users/admon/Projects/AlbumDB/AlbumDB/bin/Debug/AlbumDB.exe
+/Users/admon/Projects/AlbumDB/AlbumDB/bin/Debug/AlbumDB.pdb
+/Users/admon/Projects/AlbumDB/AlbumDB/obj/x86/Debug/AlbumDB.exe
+/Users/admon/Projects/AlbumDB/AlbumDB/obj/x86/Debug/AlbumDB.pdb

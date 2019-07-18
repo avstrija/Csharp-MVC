@@ -1,0 +1,6 @@
+/Users/admon/Projects/SoccerCircles/SoccerCircles/obj/x86/Debug/SoccerCircles.csprojAssemblyReference.cache
+/Users/admon/Projects/SoccerCircles/SoccerCircles/obj/x86/Debug/SoccerCircles.csproj.CoreCompileInputs.cache
+/Users/admon/Projects/SoccerCircles/SoccerCircles/bin/Debug/SoccerCircles.exe
+/Users/admon/Projects/SoccerCircles/SoccerCircles/bin/Debug/SoccerCircles.pdb
+/Users/admon/Projects/SoccerCircles/SoccerCircles/obj/x86/Debug/SoccerCircles.exe
+/Users/admon/Projects/SoccerCircles/SoccerCircles/obj/x86/Debug/SoccerCircles.pdb

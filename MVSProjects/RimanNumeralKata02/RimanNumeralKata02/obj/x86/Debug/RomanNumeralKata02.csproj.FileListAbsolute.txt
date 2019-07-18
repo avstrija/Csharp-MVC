@@ -1,0 +1,6 @@
+/Users/admon/Projects/RimanNumeralKata02/RimanNumeralKata02/obj/x86/Debug/RomanNumeralKata02.csprojAssemblyReference.cache
+/Users/admon/Projects/RimanNumeralKata02/RimanNumeralKata02/obj/x86/Debug/RomanNumeralKata02.csproj.CoreCompileInputs.cache
+/Users/admon/Projects/RimanNumeralKata02/RimanNumeralKata02/bin/Debug/RimanNumeralKata02.exe
+/Users/admon/Projects/RimanNumeralKata02/RimanNumeralKata02/bin/Debug/RimanNumeralKata02.pdb
+/Users/admon/Projects/RimanNumeralKata02/RimanNumeralKata02/obj/x86/Debug/RimanNumeralKata02.exe
+/Users/admon/Projects/RimanNumeralKata02/RimanNumeralKata02/obj/x86/Debug/RimanNumeralKata02.pdb

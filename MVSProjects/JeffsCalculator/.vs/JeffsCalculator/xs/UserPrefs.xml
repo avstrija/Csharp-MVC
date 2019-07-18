@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{89288873-DE90-4C4F-99D3-16F3FA97538E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="JeffsCalculator/Program.cs">
+    <Files>
+      <File FileName="JeffsCalculator/Program.cs" Line="93" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JeffsCalculator" expanded="True">
+            <Node name="JeffsCalculator" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.JeffsCalculator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

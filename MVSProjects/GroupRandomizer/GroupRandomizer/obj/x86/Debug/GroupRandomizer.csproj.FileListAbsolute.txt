@@ -1,0 +1,6 @@
+/Users/admon/Projects/GroupRandomizer/GroupRandomizer/obj/x86/Debug/GroupRandomizer.csprojAssemblyReference.cache
+/Users/admon/Projects/GroupRandomizer/GroupRandomizer/obj/x86/Debug/GroupRandomizer.csproj.CoreCompileInputs.cache
+/Users/admon/Projects/GroupRandomizer/GroupRandomizer/bin/Debug/GroupRandomizer.exe
+/Users/admon/Projects/GroupRandomizer/GroupRandomizer/bin/Debug/GroupRandomizer.pdb
+/Users/admon/Projects/GroupRandomizer/GroupRandomizer/obj/x86/Debug/GroupRandomizer.exe
+/Users/admon/Projects/GroupRandomizer/GroupRandomizer/obj/x86/Debug/GroupRandomizer.pdb

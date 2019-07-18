@@ -1,0 +1,6 @@
+/Users/admon/Projects/RomanNumeralKata01/RomanNumeralKata01/bin/Debug/RomanNumeralKata01.exe
+/Users/admon/Projects/RomanNumeralKata01/RomanNumeralKata01/bin/Debug/RomanNumeralKata01.pdb
+/Users/admon/Projects/RomanNumeralKata01/RomanNumeralKata01/obj/x86/Debug/RomanNumeralKata01.csprojAssemblyReference.cache
+/Users/admon/Projects/RomanNumeralKata01/RomanNumeralKata01/obj/x86/Debug/RomanNumeralKata01.csproj.CoreCompileInputs.cache
+/Users/admon/Projects/RomanNumeralKata01/RomanNumeralKata01/obj/x86/Debug/RomanNumeralKata01.exe
+/Users/admon/Projects/RomanNumeralKata01/RomanNumeralKata01/obj/x86/Debug/RomanNumeralKata01.pdb

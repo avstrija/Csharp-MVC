@@ -1,0 +1,6 @@
+/Users/admon/Projects/Battleship/Battleship/obj/x86/Debug/Battleship.csprojAssemblyReference.cache
+/Users/admon/Projects/Battleship/Battleship/obj/x86/Debug/Battleship.csproj.CoreCompileInputs.cache
+/Users/admon/Projects/Battleship/Battleship/bin/Debug/Battleship.exe
+/Users/admon/Projects/Battleship/Battleship/bin/Debug/Battleship.pdb
+/Users/admon/Projects/Battleship/Battleship/obj/x86/Debug/Battleship.exe
+/Users/admon/Projects/Battleship/Battleship/obj/x86/Debug/Battleship.pdb

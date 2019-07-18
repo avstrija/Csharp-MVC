@@ -1,0 +1,6 @@
+/Users/admon/Projects/RolodexAccessor/RolodexAccessor/obj/x86/Debug/RolodexAccessor.csprojAssemblyReference.cache
+/Users/admon/Projects/RolodexAccessor/RolodexAccessor/obj/x86/Debug/RolodexAccessor.csproj.CoreCompileInputs.cache
+/Users/admon/Projects/RolodexAccessor/RolodexAccessor/bin/Debug/RolodexAccessor.exe
+/Users/admon/Projects/RolodexAccessor/RolodexAccessor/bin/Debug/RolodexAccessor.pdb
+/Users/admon/Projects/RolodexAccessor/RolodexAccessor/obj/x86/Debug/RolodexAccessor.exe
+/Users/admon/Projects/RolodexAccessor/RolodexAccessor/obj/x86/Debug/RolodexAccessor.pdb

@@ -1,0 +1,2 @@
+/Users/admon/Projects/RimanNumeralKata02/RimanNumeralKata02/obj/x86/Debug/RimanNumeralKata02.csprojAssemblyReference.cache
+/Users/admon/Projects/RimanNumeralKata02/RimanNumeralKata02/obj/x86/Debug/RimanNumeralKata02.csproj.CoreCompileInputs.cache

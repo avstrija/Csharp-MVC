@@ -1,0 +1,6 @@
+/Users/admon/Projects/Buzzfeed/Buzzfeed/bin/Debug/Buzzfeed.exe
+/Users/admon/Projects/Buzzfeed/Buzzfeed/bin/Debug/Buzzfeed.pdb
+/Users/admon/Projects/Buzzfeed/Buzzfeed/obj/x86/Debug/Buzzfeed.csprojAssemblyReference.cache
+/Users/admon/Projects/Buzzfeed/Buzzfeed/obj/x86/Debug/Buzzfeed.csproj.CoreCompileInputs.cache
+/Users/admon/Projects/Buzzfeed/Buzzfeed/obj/x86/Debug/Buzzfeed.exe
+/Users/admon/Projects/Buzzfeed/Buzzfeed/obj/x86/Debug/Buzzfeed.pdb

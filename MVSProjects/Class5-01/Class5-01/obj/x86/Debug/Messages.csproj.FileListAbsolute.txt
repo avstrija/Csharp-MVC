@@ -1,0 +1,6 @@
+/Users/admon/Projects/Class5-01/Class5-01/obj/x86/Debug/Messages.csprojAssemblyReference.cache
+/Users/admon/Projects/Class5-01/Class5-01/obj/x86/Debug/Messages.csproj.CoreCompileInputs.cache
+/Users/admon/Projects/Class5-01/Class5-01/obj/x86/Debug/Class5-01.exe
+/Users/admon/Projects/Class5-01/Class5-01/obj/x86/Debug/Class5-01.pdb
+/Users/admon/Projects/Class5-01/Class5-01/bin/Debug/Class5-01.exe
+/Users/admon/Projects/Class5-01/Class5-01/bin/Debug/Class5-01.pdb

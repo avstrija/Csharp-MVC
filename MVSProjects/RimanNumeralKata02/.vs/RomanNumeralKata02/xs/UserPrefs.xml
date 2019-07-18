@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{C19C1928-E0F2-4295-84BE-FC247DA59F7A}|Default">
+  <MonoDevelop.Ide.ItemProperties.RomanNumeralKata02 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RimanNumeralKata02/Classes.cs">
+    <Files>
+      <File FileName="RimanNumeralKata02/Program.cs" Line="22" Column="1" />
+      <File FileName="RimanNumeralKata02/Classes.cs" Line="39" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RomanNumeralKata02" expanded="True">
+            <Node name="RomanNumeralKata02" expanded="True">
+              <Node name="Classes.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

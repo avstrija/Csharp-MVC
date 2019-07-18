@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{70DC3591-39A6-4EAF-BE74-B12BAC01CB97}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Buzzfeed/Program.cs">
+    <Files>
+      <File FileName="Buzzfeed/Program.cs" Line="13" Column="42" />
+      <File FileName="../AlbumDB/AlbumDB/Program.cs" Line="24" Column="44" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Buzzfeed" expanded="True">
+            <Node name="Buzzfeed" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Buzzfeed PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

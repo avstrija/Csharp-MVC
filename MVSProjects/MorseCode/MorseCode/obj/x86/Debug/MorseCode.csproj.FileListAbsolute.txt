@@ -1,0 +1,6 @@
+/Users/admon/Projects/MorseCode/MorseCode/obj/x86/Debug/MorseCode.csprojAssemblyReference.cache
+/Users/admon/Projects/MorseCode/MorseCode/obj/x86/Debug/MorseCode.csproj.CoreCompileInputs.cache
+/Users/admon/Projects/MorseCode/MorseCode/bin/Debug/MorseCode.exe
+/Users/admon/Projects/MorseCode/MorseCode/bin/Debug/MorseCode.pdb
+/Users/admon/Projects/MorseCode/MorseCode/obj/x86/Debug/MorseCode.exe
+/Users/admon/Projects/MorseCode/MorseCode/obj/x86/Debug/MorseCode.pdb

@@ -1,0 +1,6 @@
+/Users/admon/Projects/Evaluations1-2/Evaluations1-2/bin/Debug/Evaluations1-2.exe
+/Users/admon/Projects/Evaluations1-2/Evaluations1-2/bin/Debug/Evaluations1-2.pdb
+/Users/admon/Projects/Evaluations1-2/Evaluations1-2/obj/x86/Debug/Evaluations1-2.csprojAssemblyReference.cache
+/Users/admon/Projects/Evaluations1-2/Evaluations1-2/obj/x86/Debug/Evaluations1-2.csproj.CoreCompileInputs.cache
+/Users/admon/Projects/Evaluations1-2/Evaluations1-2/obj/x86/Debug/Evaluations1-2.exe
+/Users/admon/Projects/Evaluations1-2/Evaluations1-2/obj/x86/Debug/Evaluations1-2.pdb

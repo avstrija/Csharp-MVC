@@ -1,0 +1,6 @@
+/Users/admon/Projects/DashaPlusKyleRandomizer/DashaPlusKyleRandomizer/bin/Debug/DashaPlusKyleRandomizer.exe
+/Users/admon/Projects/DashaPlusKyleRandomizer/DashaPlusKyleRandomizer/bin/Debug/DashaPlusKyleRandomizer.pdb
+/Users/admon/Projects/DashaPlusKyleRandomizer/DashaPlusKyleRandomizer/obj/x86/Debug/DashaPlusKyleRandomizer.csprojAssemblyReference.cache
+/Users/admon/Projects/DashaPlusKyleRandomizer/DashaPlusKyleRandomizer/obj/x86/Debug/DashaPlusKyleRandomizer.csproj.CoreCompileInputs.cache
+/Users/admon/Projects/DashaPlusKyleRandomizer/DashaPlusKyleRandomizer/obj/x86/Debug/DashaPlusKyleRandomizer.exe
+/Users/admon/Projects/DashaPlusKyleRandomizer/DashaPlusKyleRandomizer/obj/x86/Debug/DashaPlusKyleRandomizer.pdb

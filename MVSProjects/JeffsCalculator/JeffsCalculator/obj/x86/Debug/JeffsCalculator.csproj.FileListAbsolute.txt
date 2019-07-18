@@ -1,0 +1,6 @@
+/Users/admon/Projects/JeffsCalculator/JeffsCalculator/obj/x86/Debug/JeffsCalculator.csprojAssemblyReference.cache
+/Users/admon/Projects/JeffsCalculator/JeffsCalculator/obj/x86/Debug/JeffsCalculator.csproj.CoreCompileInputs.cache
+/Users/admon/Projects/JeffsCalculator/JeffsCalculator/bin/Debug/JeffsCalculator.exe
+/Users/admon/Projects/JeffsCalculator/JeffsCalculator/bin/Debug/JeffsCalculator.pdb
+/Users/admon/Projects/JeffsCalculator/JeffsCalculator/obj/x86/Debug/JeffsCalculator.exe
+/Users/admon/Projects/JeffsCalculator/JeffsCalculator/obj/x86/Debug/JeffsCalculator.pdb

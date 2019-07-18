@@ -1,0 +1,6 @@
+/Users/admon/Projects/GameOfLife/GameOfLife/bin/Debug/GameOfLife.exe
+/Users/admon/Projects/GameOfLife/GameOfLife/bin/Debug/GameOfLife.pdb
+/Users/admon/Projects/GameOfLife/GameOfLife/obj/x86/Debug/GameOfLife.csprojAssemblyReference.cache
+/Users/admon/Projects/GameOfLife/GameOfLife/obj/x86/Debug/GameOfLife.csproj.CoreCompileInputs.cache
+/Users/admon/Projects/GameOfLife/GameOfLife/obj/x86/Debug/GameOfLife.exe
+/Users/admon/Projects/GameOfLife/GameOfLife/obj/x86/Debug/GameOfLife.pdb

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{A568F3BE-96AE-4BEC-8CEF-9164A0AC1CBC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GroupRandomizer/Program.cs">
+    <Files>
+      <File FileName="GroupRandomizer/Program.cs" Line="1" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GroupRandomizer" expanded="True">
+            <Node name="GroupRandomizer" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.GroupRandomizer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

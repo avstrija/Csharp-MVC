@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{C9DD4BB1-5C5C-4BC5-82C2-BDC724199A2F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="rolodexing/Program.cs">
+    <Files>
+      <File FileName="rolodexing/Program.cs" Line="26" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="rolodexing" expanded="True">
+            <Node name="rolodexing" expanded="True">
+              <Node name="References" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.rolodexing PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

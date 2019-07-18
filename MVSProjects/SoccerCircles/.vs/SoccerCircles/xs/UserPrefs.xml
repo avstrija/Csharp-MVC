@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{F260F37E-930F-4926-B326-869416377C34}|Default">
+  <MonoDevelop.Ide.ItemProperties.SoccerCircles PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SoccerCircles/Program.cs">
+    <Files>
+      <File FileName="SoccerCircles/Program.cs" Line="44" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SoccerCircles" expanded="True">
+            <Node name="SoccerCircles" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

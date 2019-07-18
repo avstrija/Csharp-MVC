@@ -1,0 +1,6 @@
+/Users/admon/Projects/TextTemplates/TextTemplates/obj/x86/Debug/TextTemplates.csprojAssemblyReference.cache
+/Users/admon/Projects/TextTemplates/TextTemplates/obj/x86/Debug/TextTemplates.csproj.CoreCompileInputs.cache
+/Users/admon/Projects/TextTemplates/TextTemplates/bin/Debug/TextTemplates.exe
+/Users/admon/Projects/TextTemplates/TextTemplates/bin/Debug/TextTemplates.pdb
+/Users/admon/Projects/TextTemplates/TextTemplates/obj/x86/Debug/TextTemplates.exe
+/Users/admon/Projects/TextTemplates/TextTemplates/obj/x86/Debug/TextTemplates.pdb

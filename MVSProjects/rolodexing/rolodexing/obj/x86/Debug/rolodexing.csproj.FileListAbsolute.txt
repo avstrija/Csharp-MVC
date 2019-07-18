@@ -1,0 +1,6 @@
+/Users/admon/Projects/rolodexing/rolodexing/obj/x86/Debug/rolodexing.csprojAssemblyReference.cache
+/Users/admon/Projects/rolodexing/rolodexing/obj/x86/Debug/rolodexing.csproj.CoreCompileInputs.cache
+/Users/admon/Projects/rolodexing/rolodexing/bin/Debug/rolodexing.exe
+/Users/admon/Projects/rolodexing/rolodexing/bin/Debug/rolodexing.pdb
+/Users/admon/Projects/rolodexing/rolodexing/obj/x86/Debug/rolodexing.exe
+/Users/admon/Projects/rolodexing/rolodexing/obj/x86/Debug/rolodexing.pdb

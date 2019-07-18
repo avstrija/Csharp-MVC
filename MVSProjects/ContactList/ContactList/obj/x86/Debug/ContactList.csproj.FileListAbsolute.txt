@@ -1,0 +1,6 @@
+/Users/admon/Projects/ContactList/ContactList/obj/x86/Debug/ContactList.csprojAssemblyReference.cache
+/Users/admon/Projects/ContactList/ContactList/obj/x86/Debug/ContactList.csproj.CoreCompileInputs.cache
+/Users/admon/Projects/ContactList/ContactList/bin/Debug/ContactList.exe
+/Users/admon/Projects/ContactList/ContactList/bin/Debug/ContactList.pdb
+/Users/admon/Projects/ContactList/ContactList/obj/x86/Debug/ContactList.exe
+/Users/admon/Projects/ContactList/ContactList/obj/x86/Debug/ContactList.pdb

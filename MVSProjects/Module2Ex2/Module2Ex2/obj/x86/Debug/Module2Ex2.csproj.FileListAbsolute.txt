@@ -1,0 +1,6 @@
+/Users/admon/Projects/Module2Ex2/Module2Ex2/obj/x86/Debug/Module2Ex2.csprojAssemblyReference.cache
+/Users/admon/Projects/Module2Ex2/Module2Ex2/obj/x86/Debug/Module2Ex2.csproj.CoreCompileInputs.cache
+/Users/admon/Projects/Module2Ex2/Module2Ex2/bin/Debug/Module2Ex2.exe
+/Users/admon/Projects/Module2Ex2/Module2Ex2/bin/Debug/Module2Ex2.pdb
+/Users/admon/Projects/Module2Ex2/Module2Ex2/obj/x86/Debug/Module2Ex2.exe
+/Users/admon/Projects/Module2Ex2/Module2Ex2/obj/x86/Debug/Module2Ex2.pdb

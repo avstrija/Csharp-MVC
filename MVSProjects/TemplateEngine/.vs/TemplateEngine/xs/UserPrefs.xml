@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{A2744F04-7891-46A1-AC07-5E29CD5D00BC}|Default">
+  <MonoDevelop.Ide.ItemProperties.TemplateEngine FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TemplateClass/Class1.cs">
+    <Files>
+      <File FileName="TemplateEngine/UnitTest1.cs" Line="31" Column="6" />
+      <File FileName="TemplateClass/Class1.cs" Line="34" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TemplateEngine" expanded="True">
+            <Node name="TemplateClass" expanded="True">
+              <Node name="Class1.cs" selected="True" />
+            </Node>
+            <Node name="TemplateEngine" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TemplateClass FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
